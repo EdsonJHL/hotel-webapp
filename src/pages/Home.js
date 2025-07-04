@@ -10,8 +10,8 @@ const Home = () => {
     <React.Fragment>
       <Hero>
         <Banner
-          title=" Rooms"
-          subtitle="deluxe rooms starting at ₹000"
+          title="Luxurious Rooms"
+          subtitle="deluxe rooms starting at ₹10,999"
         >
           <Link to="/rooms" className="btn-primary">
             our rooms
